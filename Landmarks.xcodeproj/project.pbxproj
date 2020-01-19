@@ -13,6 +13,7 @@
 		9A9FA59423D44FF800B28222 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FA59323D44FF800B28222 /* Assets.xcassets */; };
 		9A9FA59723D44FF800B28222 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FA59623D44FF800B28222 /* Preview Assets.xcassets */; };
 		9A9FA59A23D44FF800B28222 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FA59823D44FF800B28222 /* LaunchScreen.storyboard */; };
+		9A9FA5A223D456D100B28222 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9FA5A123D456D100B28222 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A9FA59623D44FF800B28222 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9A9FA59923D44FF800B28222 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A9FA59B23D44FF800B28222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A9FA5A123D456D100B28222 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9A9FA58F23D44FF800B28222 /* SceneDelegate.swift */,
 				9A9FA59123D44FF800B28222 /* ContentView.swift */,
 				9A9FA59323D44FF800B28222 /* Assets.xcassets */,
+				9A9FA5A123D456D100B28222 /* CircleImage.swift */,
 				9A9FA59823D44FF800B28222 /* LaunchScreen.storyboard */,
 				9A9FA59B23D44FF800B28222 /* Info.plist */,
 				9A9FA59523D44FF800B28222 /* Preview Content */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A9FA58E23D44FF700B28222 /* AppDelegate.swift in Sources */,
+				9A9FA5A223D456D100B28222 /* CircleImage.swift in Sources */,
 				9A9FA59023D44FF800B28222 /* SceneDelegate.swift in Sources */,
 				9A9FA59223D44FF800B28222 /* ContentView.swift in Sources */,
 			);
