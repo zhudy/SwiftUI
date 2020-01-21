@@ -10,6 +10,11 @@ import SwiftUI
 
 struct LandmarkDetail: View {
     var landmark: Landmark
+    @EnvironmentObject var userData: UserData
+    
+    var landmarkIndex: Int {
+        userData.landmarks.firstIndex(where: { $0.id == landmark.id })!
+    }
     
     var body: some View {
         VStack {
