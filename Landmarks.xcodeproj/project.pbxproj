@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9A10961A23D4ED9C005B33F8 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A10961923D4ED9C005B33F8 /* Landmark.swift */; };
+		9A4BC72323D6D1EF00E0C049 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A4BC72223D6D1EF00E0C049 /* charleyrivers.jpg */; };
 		9A8E233523D4F30E0090120E /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233423D4F30E0090120E /* chilkoottrail.jpg */; };
 		9A8E234223D4F3540090120E /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233723D4F3540090120E /* turtlerock.jpg */; };
 		9A8E234323D4F3540090120E /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233823D4F3540090120E /* chincoteague.jpg */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		9A10961923D4ED9C005B33F8 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
+		9A4BC72223D6D1EF00E0C049 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		9A8E233423D4F30E0090120E /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		9A8E233723D4F3540090120E /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
 		9A8E233823D4F3540090120E /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		9A8E233623D4F3180090120E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				9A4BC72223D6D1EF00E0C049 /* charleyrivers.jpg */,
 				9A8E233823D4F3540090120E /* chincoteague.jpg */,
 				9A8E233B23D4F3540090120E /* hiddenlake.jpg */,
 				9A8E233C23D4F3540090120E /* icybay.jpg */,
@@ -213,6 +216,7 @@
 				9A8E234C23D4F3540090120E /* yukon_charleyrivers.jpg in Resources */,
 				9A8E234B23D4F3540090120E /* twinlake.jpg in Resources */,
 				9A8E233523D4F30E0090120E /* chilkoottrail.jpg in Resources */,
+				9A4BC72323D6D1EF00E0C049 /* charleyrivers.jpg in Resources */,
 				9A9FA59723D44FF800B28222 /* Preview Assets.xcassets in Resources */,
 				9A8E234523D4F3540090120E /* rainbowlake.jpg in Resources */,
 				9A8E234923D4F3540090120E /* lakemcdonald.jpg in Resources */,
