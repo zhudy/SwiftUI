@@ -22,6 +22,7 @@
 		9A5A630223D7CDBB005637E0 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A630123D7CDBB005637E0 /* Hike.swift */; };
 		9A5A630423D7D040005637E0 /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A630323D7D040005637E0 /* HikeDetail.swift */; };
 		9A5A630623D8376A005637E0 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A630523D8376A005637E0 /* CategoryHome.swift */; };
+		9A5A630823D83B1E005637E0 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5A630723D83B1E005637E0 /* CategoryRow.swift */; };
 		9A8E233523D4F30E0090120E /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233423D4F30E0090120E /* chilkoottrail.jpg */; };
 		9A8E234223D4F3540090120E /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233723D4F3540090120E /* turtlerock.jpg */; };
 		9A8E234323D4F3540090120E /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A8E233823D4F3540090120E /* chincoteague.jpg */; };
@@ -64,6 +65,7 @@
 		9A5A630123D7CDBB005637E0 /* Hike.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		9A5A630323D7D040005637E0 /* HikeDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		9A5A630523D8376A005637E0 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		9A5A630723D83B1E005637E0 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		9A8E233423D4F30E0090120E /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		9A8E233723D4F3540090120E /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
 		9A8E233823D4F3540090120E /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				9A5A62F923D7C5BF005637E0 /* HikeGraph.swift */,
 				9A5A62F523D7C2D3005637E0 /* HikeView.swift */,
 				9A5A630523D8376A005637E0 /* CategoryHome.swift */,
+				9A5A630723D83B1E005637E0 /* CategoryRow.swift */,
 				9A5A62F123D7AB30005637E0 /* BadgeSymbol.swift */,
 				9A5A62F323D7AD37005637E0 /* RotatedBadgeSymbol.swift */,
 				9A9FA59523D44FF800B28222 /* Preview Content */,
@@ -276,6 +279,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A5A630823D83B1E005637E0 /* CategoryRow.swift in Sources */,
 				9A5A62FA23D7C5BF005637E0 /* HikeGraph.swift in Sources */,
 				9A5A630623D8376A005637E0 /* CategoryHome.swift in Sources */,
 				9A5A62EE23D7A007005637E0 /* HexagonParameters.swift in Sources */,
