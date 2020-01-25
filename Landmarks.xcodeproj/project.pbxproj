@@ -15,6 +15,7 @@
 		9A9FA59A23D44FF800B28222 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9FA59823D44FF800B28222 /* LaunchScreen.storyboard */; };
 		9A9FA5A223D456D100B28222 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9FA5A123D456D100B28222 /* CircleImage.swift */; };
 		9A9FA5A423D45AB000B28222 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9FA5A323D45AB000B28222 /* MapView.swift */; };
+		9AEC28F323DBE261005D2A78 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AEC28F223DBE261005D2A78 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9A9FA59B23D44FF800B28222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A9FA5A123D456D100B28222 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		9A9FA5A323D45AB000B28222 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		9AEC28F223DBE261005D2A78 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9A9FA59323D44FF800B28222 /* Assets.xcassets */,
 				9A9FA5A123D456D100B28222 /* CircleImage.swift */,
 				9A9FA5A323D45AB000B28222 /* MapView.swift */,
+				9AEC28F223DBE261005D2A78 /* WebView.swift */,
 				9A9FA59823D44FF800B28222 /* LaunchScreen.storyboard */,
 				9A9FA59B23D44FF800B28222 /* Info.plist */,
 				9A9FA59523D44FF800B28222 /* Preview Content */,
@@ -155,6 +158,7 @@
 				9A9FA58E23D44FF700B28222 /* AppDelegate.swift in Sources */,
 				9A9FA5A223D456D100B28222 /* CircleImage.swift in Sources */,
 				9A9FA5A423D45AB000B28222 /* MapView.swift in Sources */,
+				9AEC28F323DBE261005D2A78 /* WebView.swift in Sources */,
 				9A9FA59023D44FF800B28222 /* SceneDelegate.swift in Sources */,
 				9A9FA59223D44FF800B28222 /* ContentView.swift in Sources */,
 			);
